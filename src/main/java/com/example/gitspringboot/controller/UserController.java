@@ -8,7 +8,7 @@ public class UserController {
 
     @PostMapping("/getInformation")
     public String getInformation() {
-        return "getInformation()执行！";
+        return "getInformation()涛涛纯纯fw！！！！";
     }
 
 }
